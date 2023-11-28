@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=0:FFF0F5,100:FFB6C1&height=200&section=header&text=Welcome%20to-nl-633jinn's%20github👋&fontColor=ff667d&stroke=ea607c&strokeWidth=2&fontSize=50&fontAlignY=30&fontAlign=50)
 
+### Profile
+- 홍익대학교 컴퓨터공학과 재학
+
 
 ### 💻 Blog
 <a href="https://velog.io/@633jinn" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
