@@ -25,6 +25,11 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
 </div>
 
+### Frontend
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/Swifth-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+</div>
+
 ### Server
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
@@ -34,10 +39,12 @@
 ### Development Tools
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"> 
+
 </div>
 
 ### Version Controll
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"> 
 </div>
