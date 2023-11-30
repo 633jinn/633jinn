@@ -34,6 +34,10 @@
 ### Development Tools
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"> 
+</div>
 
-    
+### Version Controll
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
 </div>
