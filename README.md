@@ -27,7 +27,7 @@
 
 ### Frontend
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Swifth-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 </div>
 
 ### Server
