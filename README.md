@@ -2,6 +2,10 @@
 
 ## Profile
 - 홍익대학교 컴퓨터공학과 재학
+- UMC 4기 BE
+- UMC 5기 iOS
+- 구름톤 univ BE
+- 코드잇 부스트 BE 운영진
 
 
 ## 💻 Blog
