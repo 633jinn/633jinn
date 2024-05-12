@@ -6,6 +6,7 @@
 - UMC 5기 iOS
 - 구름톤 univ BE
 - 코드잇 부스트 BE 운영진
+- 카카오페이 SRE팀 RE파트 어시스턴트
 
 
 ## 💻 Blog
