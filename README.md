@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=0:FFF0F5,100:FFB6C1&height=200&section=header&text=Welcome%20to-nl-633jinn's%20github👋&fontColor=ff667d&stroke=ea607c&strokeWidth=2&fontSize=50&fontAlignY=30&fontAlign=50)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0C2B39&vCenter=true&width=435&lines=Hi%2C+Nice+to+meet+you+👋;This+is+633jinn's+github)](https://git.io/typing-svg)
 ## Profile
 - 홍익대학교 컴퓨터공학과 재학
 - UMC 4기 BE
