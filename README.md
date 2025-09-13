@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0C2B39&vCenter=true&width=435&lines=Hi%2C+Nice+to+meet+you+👋;This+is+633jinn's+github)](https://git.io/typing-svg)
 ## Profile
-- 홍익대학교 컴퓨터공학과 재학
 - UMC 4기 BE
 - UMC 5기 iOS
 - 구름톤 univ BE
 - 코드잇 부스트 BE 운영진
+- ACC(AWS Cloud Club) 2, 3기
 - 카카오페이 SRE팀 RE파트 어시스턴트
 - 신한은행 Tech 기획부 인턴
 
